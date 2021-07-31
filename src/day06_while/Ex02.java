@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex02 {
 	public static void main(String[] args) {
-		// 입력한 수만큼 박복하며 더하기
+		// 입력한 수만큼 반복하며 더하기
 		Scanner input = new Scanner(System.in);
 		int i = 0, sum = 0;
 		while(true) {

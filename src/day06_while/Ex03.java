@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Ex03 {
 	public static void main(String[] args) {
-		// 입력한 수 거꺼로 출력하기
+		// 입력한 수 반대로 출력하기
 		Scanner sc = new Scanner(System.in);
 		int i, temp;
 		System.out.print("수 입력 : ");
